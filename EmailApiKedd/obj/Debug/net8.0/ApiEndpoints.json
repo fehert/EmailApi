@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "EmailApiKedd.Controllers.EmailController",
+    "Method": "PostSendMail",
+    "RelativePath": "emails",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "To",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Subject",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Body",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

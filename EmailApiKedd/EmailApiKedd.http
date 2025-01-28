@@ -1,0 +1,6 @@
+@EmailApiKedd_HostAddress = http://localhost:5193
+
+GET {{EmailApiKedd_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
