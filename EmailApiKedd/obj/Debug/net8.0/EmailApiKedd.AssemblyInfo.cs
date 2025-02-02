@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EmailApiKedd")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a86f452b2e43e9976bb3862ab3d797b14fe36c40")]
 [assembly: System.Reflection.AssemblyProductAttribute("EmailApiKedd")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EmailApiKedd")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

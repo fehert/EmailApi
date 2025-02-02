@@ -35,3 +35,40 @@ C:\Users\farka\Git\EmailApiKedd\EmailApiKedd\obj\Debug\net8.0\refint\EmailApiKed
 C:\Users\farka\Git\EmailApiKedd\EmailApiKedd\obj\Debug\net8.0\EmailApiKedd.pdb
 C:\Users\farka\Git\EmailApiKedd\EmailApiKedd\obj\Debug\net8.0\EmailApiKedd.genruntimeconfig.cache
 C:\Users\farka\Git\EmailApiKedd\EmailApiKedd\obj\Debug\net8.0\ref\EmailApiKedd.dll
+C:\Users\tamas\Desktop\Új mappa\EmailApiKedd\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\tamas\Desktop\Új mappa\EmailApiKedd\bin\Debug\net8.0\appsettings.json
+C:\Users\tamas\Desktop\Új mappa\EmailApiKedd\bin\Debug\net8.0\EmailApiKedd.exe
+C:\Users\tamas\Desktop\Új mappa\EmailApiKedd\bin\Debug\net8.0\EmailApiKedd.deps.json
+C:\Users\tamas\Desktop\Új mappa\EmailApiKedd\bin\Debug\net8.0\EmailApiKedd.runtimeconfig.json
+C:\Users\tamas\Desktop\Új mappa\EmailApiKedd\bin\Debug\net8.0\EmailApiKedd.dll
+C:\Users\tamas\Desktop\Új mappa\EmailApiKedd\bin\Debug\net8.0\EmailApiKedd.pdb
+C:\Users\tamas\Desktop\Új mappa\EmailApiKedd\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\tamas\Desktop\Új mappa\EmailApiKedd\bin\Debug\net8.0\MailKit.dll
+C:\Users\tamas\Desktop\Új mappa\EmailApiKedd\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\tamas\Desktop\Új mappa\EmailApiKedd\bin\Debug\net8.0\MimeKit.dll
+C:\Users\tamas\Desktop\Új mappa\EmailApiKedd\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\tamas\Desktop\Új mappa\EmailApiKedd\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\tamas\Desktop\Új mappa\EmailApiKedd\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\tamas\Desktop\Új mappa\EmailApiKedd\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\tamas\Desktop\Új mappa\EmailApiKedd\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\tamas\Desktop\Új mappa\EmailApiKedd\obj\Debug\net8.0\EmailApiKedd.csproj.AssemblyReference.cache
+C:\Users\tamas\Desktop\Új mappa\EmailApiKedd\obj\Debug\net8.0\EmailApiKedd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tamas\Desktop\Új mappa\EmailApiKedd\obj\Debug\net8.0\EmailApiKedd.AssemblyInfoInputs.cache
+C:\Users\tamas\Desktop\Új mappa\EmailApiKedd\obj\Debug\net8.0\EmailApiKedd.AssemblyInfo.cs
+C:\Users\tamas\Desktop\Új mappa\EmailApiKedd\obj\Debug\net8.0\EmailApiKedd.csproj.CoreCompileInputs.cache
+C:\Users\tamas\Desktop\Új mappa\EmailApiKedd\obj\Debug\net8.0\EmailApiKedd.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\tamas\Desktop\Új mappa\EmailApiKedd\obj\Debug\net8.0\EmailApiKedd.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tamas\Desktop\Új mappa\EmailApiKedd\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\tamas\Desktop\Új mappa\EmailApiKedd\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\tamas\Desktop\Új mappa\EmailApiKedd\obj\Debug\net8.0\staticwebassets\msbuild.EmailApiKedd.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\tamas\Desktop\Új mappa\EmailApiKedd\obj\Debug\net8.0\staticwebassets\msbuild.build.EmailApiKedd.props
+C:\Users\tamas\Desktop\Új mappa\EmailApiKedd\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.EmailApiKedd.props
+C:\Users\tamas\Desktop\Új mappa\EmailApiKedd\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.EmailApiKedd.props
+C:\Users\tamas\Desktop\Új mappa\EmailApiKedd\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\tamas\Desktop\Új mappa\EmailApiKedd\obj\Debug\net8.0\scopedcss\bundle\EmailApiKedd.styles.css
+C:\Users\tamas\Desktop\Új mappa\EmailApiKedd\obj\Debug\net8.0\EmailApi.64B01245.Up2Date
+C:\Users\tamas\Desktop\Új mappa\EmailApiKedd\obj\Debug\net8.0\EmailApiKedd.dll
+C:\Users\tamas\Desktop\Új mappa\EmailApiKedd\obj\Debug\net8.0\refint\EmailApiKedd.dll
+C:\Users\tamas\Desktop\Új mappa\EmailApiKedd\obj\Debug\net8.0\EmailApiKedd.pdb
+C:\Users\tamas\Desktop\Új mappa\EmailApiKedd\obj\Debug\net8.0\EmailApiKedd.genruntimeconfig.cache
+C:\Users\tamas\Desktop\Új mappa\EmailApiKedd\obj\Debug\net8.0\ref\EmailApiKedd.dll

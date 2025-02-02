@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\farka\\Git\\EmailApiKedd\\EmailApiKedd\\EmailApiKedd.csproj": {}
+    "C:\\Users\\tamas\\Desktop\\Új mappa\\EmailApiKedd\\EmailApiKedd.csproj": {}
   },
   "projects": {
-    "C:\\Users\\farka\\Git\\EmailApiKedd\\EmailApiKedd\\EmailApiKedd.csproj": {
+    "C:\\Users\\tamas\\Desktop\\Új mappa\\EmailApiKedd\\EmailApiKedd.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\farka\\Git\\EmailApiKedd\\EmailApiKedd\\EmailApiKedd.csproj",
+        "projectUniqueName": "C:\\Users\\tamas\\Desktop\\Új mappa\\EmailApiKedd\\EmailApiKedd.csproj",
         "projectName": "EmailApiKedd",
-        "projectPath": "C:\\Users\\farka\\Git\\EmailApiKedd\\EmailApiKedd\\EmailApiKedd.csproj",
-        "packagesPath": "C:\\Users\\farka\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\farka\\Git\\EmailApiKedd\\EmailApiKedd\\obj\\",
+        "projectPath": "C:\\Users\\tamas\\Desktop\\Új mappa\\EmailApiKedd\\EmailApiKedd.csproj",
+        "packagesPath": "C:\\Users\\tamas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tamas\\Desktop\\Új mappa\\EmailApiKedd\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\farka\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\tamas\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
